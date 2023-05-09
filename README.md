@@ -1,4 +1,5 @@
 # Application Development (Object Based Image Analysis)
+<h2> Morphology Assignment</h2>
 Minkowski addition and subtraction are two operations used in mathematical morphology to modify the shape of objects in an image.
 <h3> Minkowski Addition</h3>
 Minkowski addition is an operation that takes two sets and creates a new set by adding the elements of one set to the elements of the other set. In simple terms, imagine that you have two different shapes, like a square and a circle. If you were to perform Minkowski addition on these shapes, you would create a new shape that is formed by adding the two shapes together.
