@@ -10,4 +10,4 @@ where ⊕ represents the Minkowski addition operator, + represents the pointwise
 Minkowski subtraction, on the other hand, is an operation that takes two sets and creates a new set by removing the elements of one set from the elements of the other set. In simple terms, imagine that you have a shape, like a square, and you want to remove the shape of a smaller object, like a circle, from the square. If you were to perform Minkowski subtraction on these shapes, you would create a new shape that is formed by subtracting the circle from the square. 
         <h3> A ⊖ B = {a ∈ A : (a + B) ⊆ A} </h3>
 where ⊖ represents the Minkowski subtraction operator, + represents the pointwise addition of two sets, and a and b represent points in the sets A and B, respectively.
-Example in python: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lisahligono/app_development_obia.git/HEAD)
+Example in python: [![Binder](https://mybinder.org/badge_logo.svg)(https://mybinder.org/v2/gh/lisahligono/app_development_obia.git/HEAD)
